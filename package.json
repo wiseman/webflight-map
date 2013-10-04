@@ -1,0 +1,33 @@
+{
+  "name": "webflight-map",
+  "description": "Plugin for AR.Drone webflight that displays an aerial map.",
+  "author": "John Wiseman <jjwiseman@gmail.com> (http://lemondronor.com)",
+  "version": "0.0.1",
+  "main": "./index.js",
+  "dependencies": {
+    "defaults": "~1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "bin": {},
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/wiseman/webflight-map.git"
+  },
+  "bugs": "https://github.com/wiseman/webflight-map/issues",
+  "keywords": [
+    "AR.Drone",
+    "ardrone-webflight",
+    "diydrone",
+    "drone",
+    "map",
+    "mission planner",
+    "mission planning",
+    "plugin",
+    "webflight"
+  ],
+  "license": "MIT/X11",
+  "engine": {
+    "node": ">=0.4"
+  }
+}
